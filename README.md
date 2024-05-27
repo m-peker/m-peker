@@ -1,4 +1,4 @@
-### Hi there 👋
+### Welcome to my Github page. On my page I will share my mini and hobby projects, focusing on performance improvements in deep learning with small but effective touches. 👋
 
 <!--
 **m-peker/m-peker** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

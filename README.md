@@ -45,6 +45,7 @@ Cloud        →  AWS (SageMaker, EC2) · Linux
 ## 📫 Reach me
 - **LinkedIn:** https://www.linkedin.com/in/musa-p-46253815a/
 - **Kaggle:** https://www.kaggle.com/musapeker
+- **Contact:** msapeker@gmail.com
 
 ---
 

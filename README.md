@@ -1,4 +1,4 @@
-# Hi, I'm Musa — AI systems builder, not just researcher. 👋
+# Hi, I'm Musa — AI Systems Builder 👋
 
 I turn deep learning research into production systems: edge inference at 500+ cameras, biometric payments in live retail, privacy-first RAG without cloud dependency. Currently **Head of AI & Deputy R&D Manager** at a large-scale enterprise.
 
